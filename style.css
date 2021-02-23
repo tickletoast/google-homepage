@@ -42,12 +42,26 @@ header {
     height: 3em;
     border: thin solid rgb(211, 211, 211);
     border-radius: 20px;
+    outline: 0;
+}
+
+
+.submit {
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 12px;
+    border: thin solid white;
+}
+
+.submit:hover {
+    border: thin solid gray;
 }
 
 footer {
     width: 100%;
     position: relative;
-    margin-top: 29%;
+    margin-top: 27%;
 }
 
 .footerleft {
