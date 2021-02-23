@@ -37,10 +37,17 @@ header {
     width: auto;
 }
 
+.searchbar {
+    width: 45em;
+    height: 3em;
+    border: thin solid rgb(211, 211, 211);
+    border-radius: 20px;
+}
+
 footer {
     width: 100%;
     position: relative;
-    margin-top: 30%;
+    margin-top: 29%;
 }
 
 .footerleft {
