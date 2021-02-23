@@ -22,17 +22,19 @@ header {
 
 #main {
     text-align: center;
-    margin-top: 5%;
+    margin-top: 7%;
+    margin-bottom: 0%;
 }
 
 #logo{
-
+    height: 10em;
+    width: auto;
 }
 
 footer {
     width: 100%;
     position: relative;
-    margin-top: 35%;
+    margin-top: 30%;
 }
 
 .footerleft {
@@ -44,6 +46,11 @@ footer {
 .footermid {
     position: relative;
     left: 27%;
+}
+
+#leaf {
+    height: 1em;
+    width: auto;
 }
 
 .footerright {
