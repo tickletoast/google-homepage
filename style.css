@@ -24,3 +24,30 @@ header {
     text-align: center;
     margin-top: 5%;
 }
+
+#logo{
+
+}
+
+footer {
+    width: 100%;
+    position: relative;
+    margin-top: 35%;
+}
+
+.footerleft {
+    position: relative;
+    left: 1%;
+    padding:10px;
+}
+
+.footermid {
+    position: relative;
+    left: 27%;
+}
+
+.footerright {
+    position: relative;
+    left: 60%;
+    padding: 10px;
+}
